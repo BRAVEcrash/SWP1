@@ -1,0 +1,26 @@
+Index: README.md
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>bbbbsdd
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/README.md b/README.md
+--- a/README.md	(revision e1ec41598bf139d4aa2fb2a232e6345646546b6a)
++++ b/README.md	(date 1717597803167)
+@@ -1,1 +1,1 @@
+-bbbbsdd
+\ No newline at end of file
++bbbbsddgit 
+\ No newline at end of file
+Index: Habibi.txt
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/Habibi.txt b/Habibi.txt
+new file mode 100644
+--- /dev/null	(date 1717597966729)
++++ b/Habibi.txt	(date 1717597966729)
+@@ -0,0 +1,1 @@
++BRRRRRRIIIINNNGGGG
