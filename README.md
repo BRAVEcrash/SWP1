@@ -6,7 +6,7 @@
         <font size="4">SOFTWARE💗<br>
         LEGENDS NEVER IN RELATIONSHIP🚀</font>
         <br><br>
-        <font size="4">ZHALOV BAIYSH</font>
+        <font size="4">ZHALALOV BAIYSH</font>
         <br><br>
         <font size="4">Software engineer from Kookmin University </font>
         <br><br>
